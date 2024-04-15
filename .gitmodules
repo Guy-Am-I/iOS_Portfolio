@@ -1,3 +1,6 @@
 [submodule "GreetingsApp"]
 	path = GreetingsApp
 	url = https://github.com/Guy-Am-I/GreetingsApp.git
+[submodule "MasteringSwiftUI"]
+	path = MasteringSwiftUI
+	url = https://github.com/Guy-Am-I/MasteringSwiftUI.git
