@@ -4,3 +4,6 @@
 [submodule "MasteringSwiftUI"]
 	path = MasteringSwiftUI
 	url = https://github.com/Guy-Am-I/MasteringSwiftUI.git
+[submodule "MasteringImagesSwiftUI"]
+	path = MasteringImagesSwiftUI
+	url = https://github.com/Guy-Am-I/MasteringImagesSwiftUI.git
