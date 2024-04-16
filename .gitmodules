@@ -10,3 +10,6 @@
 [submodule "AnimalisticCalculator"]
 	path = AnimalisticCalculator
 	url = https://github.com/Guy-Am-I/AnimalisticCalculator.git
+[submodule "FizzBuzzIOS"]
+	path = FizzBuzzIOS
+	url = https://github.com/Guy-Am-I/FizzBuzzIOS.git
