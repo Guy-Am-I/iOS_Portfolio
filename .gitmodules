@@ -7,3 +7,6 @@
 [submodule "MasteringImagesSwiftUI"]
 	path = MasteringImagesSwiftUI
 	url = https://github.com/Guy-Am-I/MasteringImagesSwiftUI.git
+[submodule "AnimalisticCalculator"]
+	path = AnimalisticCalculator
+	url = https://github.com/Guy-Am-I/AnimalisticCalculator.git
