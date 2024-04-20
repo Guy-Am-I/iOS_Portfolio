@@ -13,3 +13,6 @@
 [submodule "FizzBuzzIOS"]
 	path = FizzBuzzIOS
 	url = https://github.com/Guy-Am-I/FizzBuzzIOS.git
+[submodule "MasteringSwiftUICharts"]
+	path = MasteringSwiftUICharts
+	url = https://github.com/Guy-Am-I/MasteringSwiftUICharts.git
